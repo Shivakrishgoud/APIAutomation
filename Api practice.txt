@@ -1,0 +1,4 @@
+API when we call login Api we will get one one Token in responce. this is what responsible to push in the header of every subsequent call which we make in the application.And also we get user ID this is also will help in some aspects.
+
+Next call is Adding New product.
+
